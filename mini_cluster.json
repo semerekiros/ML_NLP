@@ -1,0 +1,66 @@
+[
+    {
+        "distractor": "distractor1 ",
+        "questions": [
+            "hello world distractor one",
+            "hi world distractor one"
+        ]
+    },
+    
+  {
+        "distractor": "distractor2 ",
+        "questions": [
+            "machine learning distractor two",
+            "natural language processing distractor two ?"
+        ]
+    },
+
+{
+        "distractor": "distractor3 ",
+        "questions": [
+            "political science and the world distractor three",
+            "The president of united states distractor three"
+        ]
+    },
+
+{
+        "distractor": "distractor4 ",
+        "questions": [
+            "mitosis and biological phenomenen distractor four",
+            "introduction to biology distractor four"
+        ]
+    },
+{
+        "distractor": "distractor5 ",
+        "questions": [
+            "what is the physical world distractor five",
+            "Albert Einstein and his physics team"
+        ]
+    },
+
+{
+        "distractor": "distractor6 ",
+        "questions": [
+            "mitosis and biological phenomenen distractor six",
+            "introduction to biology distractor six"
+        ]
+    },
+
+
+{
+        "distractor": "distractor7 ",
+        "questions": [
+            "mitosis and biological phenomenen distractor seven",
+            "introduction to biology distractor seven"
+        ]
+    },
+
+{
+        "distractor": "distractor8 ",
+        "questions": [
+            "mitosis and biological phenomenen distractor eight",
+            "introduction to biology distractor eight"
+        ]
+    }
+
+]
